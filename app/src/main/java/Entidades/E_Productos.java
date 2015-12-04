@@ -8,6 +8,9 @@ public class E_Productos {
 
 
 
+int x ;
+
+    int y ;
 
 
 
