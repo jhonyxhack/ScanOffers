@@ -6,4 +6,7 @@ package Entidades;
 public class E_Productos {
     int Id_Producto;
 
+
+
+
 }
