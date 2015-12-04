@@ -4,5 +4,6 @@
     <string name="app_name">ScanOffers</string>
     <string name="hello_world">bIENVENIDO  la apla</string>
     <string name="action_settings">Configuracion</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
 
 </resources>
